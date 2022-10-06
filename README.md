@@ -10,3 +10,5 @@ $ source env/bin/activate
 # activate pre-commit hooks
 (env) $ pre-commit install
 ```
+## PyCharm Black Integration
+https://black.readthedocs.io/en/stable/integrations/editors.html

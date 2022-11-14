@@ -3,3 +3,4 @@ black
 aiohttp
 black[d]
 pytest
+mypy

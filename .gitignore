@@ -130,3 +130,6 @@ dmypy.json
 
 # VSC config
 .vscode/
+
+# JetBrains config
+.idea/

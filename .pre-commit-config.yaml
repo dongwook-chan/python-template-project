@@ -3,14 +3,14 @@ repos:
     hooks:
     -   id: black
         name: black
-        entry: env/bin/black
+        entry: venv/bin/black
         language: python
         types: [python]
 -   repo: local
     hooks:
     -   id: pytest
         name: pytest
-        entry: env/bin/pytest
+        entry: veenv/bin/pytest
         language: python
         types: [python]
         pass_filenames: false
